@@ -137,8 +137,8 @@
     top: 2000px;
 }
 .donate-title{
-    background-color:
-    color: #707070;
+   
+    margin-top: 10px;
 }
 .donate-life{
     background-position: bottom;
@@ -151,10 +151,11 @@
 .donate-life-title{
     margin-top: 230px;
  justify-content:space-between;
- bottom: 500px;
-text-align: center;
-background-color: #f8eaea;
-width: 92%;
+  bottom: 500px;
+ text-align: center;
+  background-color: #f8eaea;
+  width: 92%;
+
 }
 .donate-life-subtitle{
    font-size: 40px;
@@ -174,4 +175,19 @@ width: 92%;
     position: relative;
     top: 1000px;
     height: 340px;
+    margin-top: 230px;
+}
+
+.footer-title{
+color: white;
+text-align: center;
+position: relative;
+font-size: 34px;
+top: 150px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    align-items: center;
+    justify-items: center;
+   border: 3px solid #FF5959;
 }
