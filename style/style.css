@@ -53,7 +53,7 @@
     display: flex;
     position: relative;
    justify-content: center;
-    
+   
 }
 .taka{
     margin-left: 50px;
@@ -78,6 +78,7 @@
 }
 .plan-title{
    margin-bottom: 20px;
+   font-size: 50px;
 
 }
 .donate-plan{
@@ -88,7 +89,7 @@
    
 }
 .donate-title{
-    font-size: 20px;
+    font-size: 50px;
     font-weight: 800;
    display: block;
     margin-top: 10px;
@@ -148,10 +149,12 @@
     
 }
 .donate-life-title{
+    margin-top: 230px;
  justify-content:space-between;
  bottom: 500px;
 text-align: center;
-
+background-color: #f8eaea;
+width: 92%;
 }
 .donate-life-subtitle{
    font-size: 40px;
@@ -162,4 +165,13 @@ text-align: center;
 }
 .donate-life-image{
     height: 532px;
+}
+.input-section{
+    background-color: #FF5959;
+}
+.footer-section{
+    background-color: black;
+    position: relative;
+    top: 1000px;
+    height: 340px;
 }
