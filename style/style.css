@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header-section{
+    text-align: center;
+    background-image: url('/donate-today-main/donate-today-main/images/donation0.jpg');
+    height: 670px;
+    width: 100%;
+    background-size: cover;
+    margin-top: auto;
+    color: white;
+  
+}
+
+.header-title{
+    position: relative;
+    top: 250px;
+    
+}
+
+.header-slogan{
+  font-size: 65px;
+
+}
+.hearder-btn{
+    background: #FF5959;
+    padding: 16px 12px;
+    border: 0;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 20px;
+}
