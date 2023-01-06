@@ -32,3 +32,47 @@
     border-radius: 5px;
     margin-top: 20px;
 }
+
+.donate-today{
+    text-align: center;
+    margin-top: 140px;
+}
+.donate-title{
+    font-size: 45px;
+    font-weight: 700;
+}
+.money-section{
+    margin-top: 80px;
+    display: flex;
+    position: relative;
+   justify-content: center;
+    
+}
+.taka{
+    margin-left: 50px;
+    background-color: #FF5959;
+    padding: 40px 50px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    color: #707070;
+   
+}
+.selected-taka{
+   
+}
+.amount-section{
+   text-align: center;
+}
+
+.our-plan{
+   text-align: center;
+   justify-content: center;
+   margin-top: 130px;
+}
+.plan-title{
+   margin-bottom: 20px;
+
+}
+.donate-plan{
+    
+}
